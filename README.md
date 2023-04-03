@@ -1,4 +1,4 @@
-You can check chatapp on this link https://sschat.netlify.app/login
+You can check chatapp on this link https://sschat.netlify.app
 
 # Getting Started with Create React App
 
